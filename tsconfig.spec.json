@@ -8,6 +8,7 @@
     ]
   },
   "include": [
+    "src/app/shared/**/*.ts",
     "src/**/*.spec.ts",
     "src/**/*.d.ts"
   ]
